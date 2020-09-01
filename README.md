@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Brady Carter, I am a student at Dobyns-Bennett High School.
 
 <!--
 **dbstudent13/dbstudent13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
